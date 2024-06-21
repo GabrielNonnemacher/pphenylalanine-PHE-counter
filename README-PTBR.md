@@ -7,9 +7,9 @@ Este programa é um exercício realizado na disciplina Tópicos Avançados I, qu
 
 ## ⚙️ Funcionalidades
 
- * **LEIA OS ARQUIVOS**: O programa lê uma lista de arquivos.
-  * **VERIFICAR E CONTA**: O programa verifica a quantidade de PHE na cadeia AC.
-  * **ESCREVA O ARQUIVO**: O programa gera um novo arquivo com a resposta.
+ * **LEIR OS ARQUIVOS**: O programa lê uma lista de arquivos.
+  * **VERIFICAR E CONTAR**: O programa verifica a quantidade de PHE na cadeia AC.
+  * **ESCREVER O ARQUIVO**: O programa gera um novo arquivo com a resposta.
 
 <br/>
 
