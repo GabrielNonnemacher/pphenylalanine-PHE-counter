@@ -27,4 +27,4 @@ Este programa é um exercício realizado na disciplina Tópicos Avançados I, qu
 
 ## 📄 Licença
 
-MIT License - see the file [LICENSE](https://github.com/GabrielNonnemacher/pphenylalanine-PHE-counter/blob/master/LICENSE) for details.
+MIT License - veja o arquivo [LICENSE](https://github.com/GabrielNonnemacher/pphenylalanine-PHE-counter/blob/master/LICENSE) para detalhes.
